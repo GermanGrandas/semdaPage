@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/semdaPage/precache-manifest.3531fcb2e42bc7016b4fdd43c7ce6384.js"
+  "/semdaPage/precache-manifest.31d46ad160ff7563d43dfe469a27312a.js"
 );
 
 workbox.clientsClaim();

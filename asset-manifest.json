@@ -1,14 +1,14 @@
 {
-  "main.css": "/semdaPage/static/css/main.9744180c.chunk.css",
-  "main.js": "/semdaPage/static/js/main.2a4f5023.chunk.js",
-  "main.js.map": "/semdaPage/static/js/main.2a4f5023.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/semdaPage/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/semdaPage/static/js/1.2dd891c4.chunk.js.map",
+  "main.js": "/semdaPage/static/js/main.dd101751.chunk.js",
+  "main.js.map": "/semdaPage/static/js/main.dd101751.chunk.js.map",
+  "static/css/1.ab9700f7.chunk.css": "/semdaPage/static/css/1.ab9700f7.chunk.css",
+  "static/js/1.4e2b2d64.chunk.js": "/semdaPage/static/js/1.4e2b2d64.chunk.js",
+  "static/js/1.4e2b2d64.chunk.js.map": "/semdaPage/static/js/1.4e2b2d64.chunk.js.map",
   "runtime~main.js": "/semdaPage/static/js/runtime~main.b8117ae3.js",
   "runtime~main.js.map": "/semdaPage/static/js/runtime~main.b8117ae3.js.map",
-  "static/media/logo.svg": "/semdaPage/static/media/logo.ee7cd8ed.svg",
-  "static/css/main.9744180c.chunk.css.map": "/semdaPage/static/css/main.9744180c.chunk.css.map",
+  "static/media/semantic.min.css": "/semdaPage/static/media/brand-icons.a1a749e8.svg",
+  "static/css/1.ab9700f7.chunk.css.map": "/semdaPage/static/css/1.ab9700f7.chunk.css.map",
   "index.html": "/semdaPage/index.html",
-  "precache-manifest.3531fcb2e42bc7016b4fdd43c7ce6384.js": "/semdaPage/precache-manifest.3531fcb2e42bc7016b4fdd43c7ce6384.js",
+  "precache-manifest.31d46ad160ff7563d43dfe469a27312a.js": "/semdaPage/precache-manifest.31d46ad160ff7563d43dfe469a27312a.js",
   "service-worker.js": "/semdaPage/service-worker.js"
 }
